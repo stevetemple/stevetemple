@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve Temple 👋
 
-I am one of the owners of [Gibe Digital](https://gibe.digital) and have been working in software development since 1996. I enjoy solving problems, and contributing to open source projects, in particular [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/).
+I am Technical Director and one of the owners of [Gibe Digital](https://gibe.digital) and have been working in software development since 1996. I enjoy solving problems, and contributing to open source projects, in particular [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/).
 
 ### Connect with me:
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/stevetemple)
