@@ -1,12 +1,12 @@
-### Hi there, I'm [Steve Temple][website] 👋
+### Hi there, I'm Steve Temple 👋
 
 I am one of the owners of [Gibe Digital](https://gibe.digital) and have been working in software development since 1996. I enjoy solving problems, and contributing to open source projects, in particular [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/).
 
 ### Connect with me:
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/stevetemple)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://umbracocommunity.social/@steve_gibe)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Steve_Gibe)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/stevetemple/)
 <br />
 
 ### Languages and Tools:
